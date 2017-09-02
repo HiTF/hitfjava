@@ -1,6 +1,6 @@
 package classkek;
 
-
+import static java.lang.System.out;
 
 class kek {
 
@@ -16,8 +16,12 @@ class kek {
 		uAccount.balance = 14.88;
 		
 		myAccount.display();
+		out.printf(" $%4.2f\n", myAccount.getInterest(5.00));
 		System.out.println();
 		uAccount.display();
+		out.print(uAccount.getInterest(10.00));
+		
+		
 	}
 
 }
