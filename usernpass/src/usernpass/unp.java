@@ -5,18 +5,18 @@ import javax.swing.JOptionPane;
 class unp {
 
 	public static void main(String[] args) {
-		String username = JOptionPane.showInputDialog("Username:");
-		String password = JOptionPane.showInputDialog("Password:");
-		if (username != null && password != null && (
-				(username.equals("bburd")&&
-				password.equals("swordfish")) || 
+		String username = JOptionPane.showInputDialog("Андрей пидр?:");
+		String password = JOptionPane.showInputDialog("Точно?:");
+		if ((
+				(username.equals("да")&&
+				password.equals("да")) || 
 				(username.equals("hritter")&&
 				password.equals("preakston"))
 				))
 				{
-			JOptionPane.showMessageDialog(null,"U enter to System");
+			JOptionPane.showMessageDialog(null,"Ну значит Андрей пидр");
 		}else {
-			JOptionPane.showMessageDialog(null,"U enter to System");		
+			JOptionPane.showMessageDialog(null,"Андрей пошел нахуй");		
 			}
 		}
 }
