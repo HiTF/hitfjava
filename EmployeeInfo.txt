@@ -1,0 +1,9 @@
+Barry
+courier
+5000.0
+Jein
+programmer
+7000.0
+Katty
+cashier
+10000.0
