@@ -4,15 +4,25 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/GitHub/hitfjava/usernpass/src/usernpass/unp.java" timestamp="1506460524645" />
-      <file name="$USER_HOME$/Documents/GitHub/hitfjava/empoyee/src/unp.java" timestamp="1506461244865">
+      <file name="$USER_HOME$/Documents/GitHub/hitfjava/empoyee/src/unp.java" timestamp="1506461519175">
         <mark key="g" line="5" column="0" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="17" />
+        <mark key="'" line="7" column="55" />
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="16" column="69" />
         <mark key="." line="0" column="17" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="7" column="55" filename="$USER_HOME$/Documents/GitHub/hitfjava/empoyee/src/unp.java" />
+    </jumps>
+    <registers>
+      <register name="0" type="4">
+        <text>Íó çíà÷èò Àíäðåé ïèäð&quot;</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>Íó çíà÷èò Àíäðåé ïèäð&quot;</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
