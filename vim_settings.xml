@@ -2,7 +2,9 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/GitHub/hitfjava/usernpass/src/usernpass/unp.java" timestamp="1506460524645" />
+    </filemarks>
     <jumps />
     <registers />
     <search>
