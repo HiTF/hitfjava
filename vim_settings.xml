@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/GitHub/hitfjava/TemperatureTest/src/TemperatureNice.java" timestamp="1506537953081">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/hitfjava/TemperatureTest/src/UseTemperature.java" timestamp="1506513399193">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -35,10 +40,10 @@
         <text>Íó çíà÷èò Àíäðåé ïèäð&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>double number)</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>double number)</text>
       </register>
     </registers>
     <search>
