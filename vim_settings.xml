@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/GitHub/hitfjava/TemperatureTest/src/UseTemperature.java" timestamp="1506513399193">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/hitfjava/usernpass/src/usernpass/unp.java" timestamp="1506460524645" />
       <file name="$USER_HOME$/Documents/GitHub/hitfjava/empoyee/src/unp.java" timestamp="1506461519175">
         <mark key="g" line="5" column="0" />
@@ -10,6 +15,16 @@
         <mark key="[" line="16" column="48" />
         <mark key="]" line="16" column="69" />
         <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/hitfjava/TemperatureTest/src/TempScale.java" timestamp="1506512071781">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/hitfjava/TemperatureTest/src/Temp.java" timestamp="1506512553910">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -20,7 +35,10 @@
         <text>Íó çíà÷èò Àíäðåé ïèäð&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Íó çíà÷èò Àíäðåé ïèäð&quot;</text>
+        <text>p</text>
+      </register>
+      <register name="-" type="4">
+        <text>p</text>
       </register>
     </registers>
     <search>
