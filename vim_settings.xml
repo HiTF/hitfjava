@@ -18,12 +18,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/hitfjava/Fframe/src/ShowFrame.java" timestamp="1506542955857">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="1" />
+      <file name="$USER_HOME$/Documents/GitHub/hitfjava/Fframe/src/ShowFrame.java" timestamp="1506543430522">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/hitfjava/usernpass/src/usernpass/unp.java" timestamp="1506460524645" />
       <file name="$USER_HOME$/Documents/GitHub/hitfjava/empoyee/src/unp.java" timestamp="1506461519175">
         <mark key="g" line="5" column="0" />
         <mark key="'" line="7" column="55" />
@@ -63,7 +62,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="false" />
